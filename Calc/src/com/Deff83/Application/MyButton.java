@@ -20,17 +20,13 @@ public class MyButton extends Button {
 	private String buttonOnMouseColor = "#cc6688";
 	private String buttonOnPressColor = "#aa4477";
 	
-	/**
-	 * 
-	 */
+	
 	public MyButton() {
 		// TODO Auto-generated constructor stub
 		
 	}
 
-	/**
-	 * @param arg0
-	 */
+	
 	public MyButton(String arg0) {
 		super(arg0);
 		setColorButton();
